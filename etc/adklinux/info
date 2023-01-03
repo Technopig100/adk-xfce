@@ -1,9 +1,9 @@
-RELEASE=23.01
+RELEASE=23.02
 CODENAME=algonquin
 EDITION="Xfce"
-DESCRIPTION="ADK-Linux 23.01 Algonquin"
+DESCRIPTION="ADK-Linux 23.02 Algonquin"
 DESKTOP=Xfce4
 TOOLKIT=GTK
 RELEASE_NOTES_URL=https://github.com/Technopig100/whatsnew.git
 USER_GUIDE_URL=https://wiki.archlinux.org/title/Main_page
-GRUB_TITLE=ADK-Linux 23.01 Algonquin
+GRUB_TITLE=ADK-Linux 23.02 Algonquin
